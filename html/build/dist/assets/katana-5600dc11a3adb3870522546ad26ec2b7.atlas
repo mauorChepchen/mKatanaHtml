@@ -1,0 +1,185 @@
+katana.png
+	size: 173, 525
+	repeat: none
+attac
+	index: 5
+	bounds: 2, 167, 47, 40
+attac
+	index: 6
+	bounds: 2, 129, 44, 36
+attac
+	index: 3
+	bounds: 2, 91, 44, 36
+attac
+	index: 4
+	bounds: 2, 51, 42, 38
+attac
+	index: 2
+	bounds: 2, 14, 42, 35
+attac
+	index: 1
+	bounds: 45, 299, 52, 30
+attac
+	index: 0
+	bounds: 45, 209, 40, 26
+fall
+	index: 0
+	bounds: 2, 347, 41, 48
+fall
+	index: 1
+	bounds: 2, 300, 41, 45
+fall
+	index: 3
+	bounds: 2, 253, 41, 45
+fall
+	index: 2
+	bounds: 2, 209, 41, 42
+idle
+	index: 3
+	bounds: 51, 172, 34, 35
+idle
+	index: 6
+	bounds: 91, 331, 35, 34
+idle
+	index: 9
+	bounds: 99, 294, 33, 35
+idle
+	index: 5
+	bounds: 135, 206, 35, 34
+idle
+	index: 2
+	bounds: 48, 101, 34, 35
+idle
+	index: 1
+	bounds: 46, 2, 33, 35
+idle
+	index: 0
+	bounds: 46, 2, 33, 35
+idle
+	index: 4
+	bounds: 88, 78, 35, 34
+idle
+	index: 7
+	bounds: 128, 169, 34, 34
+idle
+	index: 8
+	bounds: 128, 134, 34, 33
+idleToRun
+	index: 2
+	bounds: 101, 492, 41, 31
+idleToRun
+	index: 3
+	bounds: 91, 235, 42, 28
+idleToRun
+	index: 0
+	bounds: 51, 138, 34, 32
+idleToRun
+	index: 1
+	bounds: 127, 101, 35, 31
+idleToWalk
+	index: 3
+	bounds: 92, 265, 40, 27
+idleToWalk
+	index: 2
+	bounds: 46, 39, 39, 30
+idleToWalk
+	index: 0
+	bounds: 81, 2, 33, 35
+idleToWalk
+	index: 1
+	bounds: 125, 68, 34, 31
+run
+	index: 6
+	bounds: 45, 363, 44, 32
+	offsets: 0, 12, 44, 44
+run
+	index: 8
+	bounds: 45, 331, 44, 30
+	offsets: 0, 12, 44, 44
+run
+	index: 5
+	bounds: 45, 268, 45, 29
+	offsets: 0, 12, 45, 44
+run
+	index: 7
+	bounds: 45, 237, 44, 29
+	offsets: 0, 12, 44, 44
+run
+	index: 10
+	bounds: 101, 429, 41, 29
+	offsets: 0, 12, 44, 44
+run
+	index: 9
+	bounds: 89, 398, 42, 29
+	offsets: 0, 11, 44, 44
+run
+	index: 2
+	bounds: 133, 396, 38, 31
+	offsets: 3, 12, 44, 44
+run
+	index: 4
+	bounds: 133, 364, 38, 30
+	offsets: 1, 12, 44, 44
+run
+	index: 1
+	bounds: 87, 173, 39, 30
+	offsets: 3, 12, 44, 44
+run
+	index: 3
+	bounds: 87, 114, 38, 27
+	offsets: 2, 12, 44, 44
+slash
+	index: 1
+	bounds: 2, 497, 96, 26
+slash
+	index: 3
+	bounds: 2, 471, 97, 24
+slash
+	index: 2
+	bounds: 2, 446, 97, 23
+slash
+	index: 0
+	bounds: 2, 418, 85, 26
+slash
+	index: 4
+	bounds: 2, 397, 82, 19
+walk
+	index: 2
+	bounds: 101, 460, 41, 30
+	offsets: 0, 12, 42, 42
+walk
+	index: 10
+	bounds: 91, 367, 40, 29
+	offsets: 2, 13, 42, 42
+walk
+	index: 6
+	bounds: 128, 333, 42, 29
+	offsets: 0, 13, 42, 42
+walk
+	index: 1
+	bounds: 134, 302, 37, 29
+	offsets: 3, 13, 42, 42
+walk
+	index: 4
+	bounds: 134, 272, 37, 28
+	offsets: 5, 13, 42, 42
+walk
+	index: 9
+	bounds: 135, 242, 36, 28
+	offsets: 3, 13, 42, 42
+walk
+	index: 5
+	bounds: 87, 205, 42, 28
+	offsets: 0, 13, 42, 42
+walk
+	index: 3
+	bounds: 87, 143, 39, 28
+	offsets: 4, 13, 43, 42
+walk
+	index: 8
+	bounds: 48, 71, 38, 28
+	offsets: 3, 13, 43, 42
+walk
+	index: 7
+	bounds: 88, 47, 35, 29
+	offsets: 5, 13, 42, 42

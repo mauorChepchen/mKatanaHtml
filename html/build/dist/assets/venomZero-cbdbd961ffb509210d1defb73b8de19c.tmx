@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="68" height="23" tilewidth="16" tileheight="16" infinite="0" nextlayerid="10" nextobjectid="42">
+ <tileset firstgid="1" source="Buildings.tsx"/>
+ <tileset firstgid="376" source="Props-01.tsx"/>
+ <tileset firstgid="488" source="Tiles.tsx"/>
+ <layer id="1" name="Слой тайлов 1" width="68" height="23">
+  <data encoding="base64" compression="zlib">
+   eJztmMkuBEEYx6vbnhD72GZwJk4uliNHS+yPgETCI7h4BnHwDrjyBuLGGyCWWMc6DP5fqr7Ml0q3sXUbY/7JL1Vfdfek5peqnulWKpdccvlo8lxNFah2f3s2v58bR6lbUA8XDTkvKgEXT+AcXAgvR+gfgxNw6qTq/Cx3Ve5qClzvvl1XZLmPZYtF0/6nDIn+msWKaVtAIxg05xNFYDXUmYaTz/qYBFOgNdRZhhfpY91iw7RdoBNMgHmwoPT6oGwKtsKZcqCRPvKA69EWAMdjjLIr2AtnyoGG7wcU2hNNIApihmal10IxKBGMghNwZjgF52FOPKBIHwOmPyyguhX0gIShV6V8kAd2km0+6B4hPXC/G4yBB/AIxpVeM+/52Bb9neCm/+PxWx+ypbUwBypxE6kCIyrlw2+/7IMDw6Gp/0Ls9eG1X+j3dgm0wUW7jw97fWSSjxr8ANTSc4dKj/Qx68M0mAF9cNHv6D6NsQ/eM5nmgz18JtKHfFazn9386kzcL1/xwJE+HHzGJb7jnfmzQTW/A+D63tHncO13P02CF8OrqYPOdzxwpI8iVz/r03cudHXN7wC4TqIfFzX7Yh8RjEVBHYiZVo7Z4xGrH/E4Lq/lms+T1/9EpI8ysz6eQamra34XwjUdfxS1/c7kClxbxNMc9yJu1iGT7jo6n5R8lyHLyX8Mu+hwNOzjDWpn0HU=
+  </data>
+ </layer>
+ <layer id="2" name="Слой тайлов 2" width="68" height="23">
+  <data encoding="base64" compression="zlib">
+   eJztmLtOAkEUhmeW2GgiiTZY62PoY/gUvoBaKVqYeGm8FCYWUKGJVyhAGy+NUBC1wg47Ly/ht2E3mZ3scpEg7M58yZc9A7PJOX8gk10hwrmXQjzgIz7JiE0G8WwzCPBi8wjQII9lXMFVrTaRJnOv4TpmtdpiMZlL/gPneCFbtUtRtjfJbDPfDu7injfrnWxZV2rVJLPPfAd4iEfarCVt79K/dTU8ih3WKpuDbCSGnPSw13GE+OT39oXf+COj1/415Qys9a5Y9OyWrR72TjJbGscirlH1KDCOE8NuYoSYxTmvzoZ8n+twv/s8XMUavuIbvsf4HJrHBdz44/1hz8MfMc7D5biP/v08qljDHOt8zPPoB/X9QIH6FM8MyWOKM2BaOwcayuxX1Nd4k8A86iGfZchixgnm0lRmL1NX8DaBebTDz8ViMYVfaHhHRg==
+  </data>
+ </layer>
+ <layer id="3" name="Слой тайлов 3" width="68" height="23">
+  <data encoding="base64" compression="zlib">
+   eJzt0j0OQEAURWHWTUdBR8daNH4alSiVluIWU8woJWLinS+5pcQ7mSQBAACIy5B+/QdxGNVh0ma3xXiX1fj9dzs9Agc9AvQIWe5R6fb6dr/lHo1ub7VMy10Hyz063d5rhVa6DqfhHm/w39qfbA+/898agH+6AJ7LE30=
+  </data>
+ </layer>
+ <layer id="4" name="Слой тайлов 4" width="68" height="23">
+  <data encoding="base64" compression="zlib">
+   eJzt0kEOABEURMHv3Ow4hdOyZD/JCFUn6Lx0BAAAAMAbcooo6e8V56izRdPjUz62Wz/WdYHrDSz+BKA=
+  </data>
+ </layer>
+ <objectgroup id="5" name="Слой объектов 1">
+  <object id="9" x="368.333" y="176">
+   <properties>
+    <property name="isPass" type="bool" value="false"/>
+   </properties>
+   <polygon points="0,0 223.667,0.333333 223.667,31.6667 0.333333,32"/>
+  </object>
+  <object id="30" x="-0.666667" y="350">
+   <properties>
+    <property name="isPass" type="bool" value="false"/>
+   </properties>
+   <polygon points="0.5,1.5 0.625,-61.9167 209.833,-61.875 276.75,-28.5 276.875,1.66667"/>
+  </object>
+  <object id="31" x="269.327" y="322">
+   <properties>
+    <property name="isPass" type="bool" value="false"/>
+   </properties>
+   <polygon points="3.04781,-1.5 3.34006,29.625 499.13,30 499.548,-1.29167"/>
+  </object>
+  <object id="32" x="0" y="51.3333">
+   <properties>
+    <property name="isPass" type="bool" value="false"/>
+   </properties>
+   <polygon points="0.25,-3.75 31.9583,-3.75 117.792,39.375 117.542,60.5 -0.375,60.7083"/>
+  </object>
+  <object id="33" x="94" y="82.6667">
+   <properties>
+    <property name="isPass" type="bool" value="false"/>
+   </properties>
+   <polygon points="-10.25,-2.625 113.625,-2.29167 113.75,29.4167 -10.0417,29.875"/>
+  </object>
+  <object id="34" x="769" y="322">
+   <properties>
+    <property name="isPass" type="bool" value="false"/>
+   </properties>
+   <polygon points="0,0 124,-64 124,-47 0,13"/>
+  </object>
+  <object id="35" x="770" y="339">
+   <properties>
+    <property name="isPass" type="bool" value="false"/>
+   </properties>
+   <polygon points="0,0 273,-2 273,15 -1,15"/>
+  </object>
+  <object id="36" x="1045" y="357">
+   <properties>
+    <property name="isPass" type="bool" value="false"/>
+   </properties>
+   <polygon points="0,0 -4,-241 11,-241 14,-3"/>
+  </object>
+  <object id="40" x="893" y="260">
+   <properties>
+    <property name="isPass" type="bool" value="true"/>
+   </properties>
+   <polygon points="0,0 151,1 151,12 0,12"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="6" name="persons">
+  <object id="13" name="gg" x="148.667" y="250.667">
+   <point/>
+  </object>
+  <object id="14" name="vrag_2" x="340" y="314.667">
+   <point/>
+  </object>
+  <object id="18" name="vrag_3" x="492" y="311.334">
+   <point/>
+  </object>
+  <object id="20" name="vrag_1" x="403.334" y="106">
+   <point/>
+  </object>
+  <object id="21" name="vrag_1" x="544.667" y="97.333">
+   <point/>
+  </object>
+  <object id="22" name="vrag_4" x="156" y="61.3333">
+   <point/>
+  </object>
+  <object id="23" name="poloska_3" x="393.333" y="305.333">
+   <polyline points="7.33333,-1.33333 255.333,-3.33333"/>
+  </object>
+  <object id="24" name="poloska_2" x="275.333" y="304">
+   <polyline points="-246,1.33333 96.6667,0.666667"/>
+  </object>
+  <object id="25" name="poloska_1" x="375.333" y="162">
+   <polyline points="0,0 202.667,0.666667"/>
+  </object>
+  <object id="26" name="poloska_4" x="185.334" y="65.3333">
+   <polyline points="0,0 -180.667,-0.666667"/>
+  </object>
+ </objectgroup>
+</map>
